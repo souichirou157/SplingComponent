@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 import com.example.demo.Util.Count;
 
-
+//
 @Component
 public class BeanSampleService {
 	
